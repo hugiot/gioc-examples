@@ -3,7 +3,7 @@ module github.com/hugiot/gioc-examples
 go 1.20
 
 require (
-	github.com/hugiot/gioc v0.0.4
+	github.com/hugiot/gioc v0.1.0
 	github.com/spf13/viper v1.16.0
 	go.uber.org/zap v1.25.0
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
